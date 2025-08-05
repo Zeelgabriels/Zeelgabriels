@@ -27,9 +27,11 @@ A Frontend Developer🌈| Full Stack & AI Development Enthusiast📝
 ## 🌱 I'm currently learning
 
  - 📱 Data Structure and Algorithms
- - NextJs
- - REACT JS, Node JS, PYTHON
- - Styled Components
+ - ☑️ NextJs
+ - 🧮 REACT JS, Node JS, PYTHON
+ - 🧮 Styled Components
+ - 🧮 SASS / SCSS
+ - 🧮 Vanilla JavaScript
  
 ## Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br>
   <a href="https://www.linkedin.com/in/gabriel-ifeanyi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
